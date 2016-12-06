@@ -1,0 +1,16 @@
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\TestNETBot.exe.config
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\TestNETBot.exe
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\TestNETBot.pdb
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\obj\Debug\TestNETBot.exe
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\obj\Debug\TestNETBot.pdb
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\libsodium.dll
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\opus.dll
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\DSharpPlus.dll
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\WebSocket4Net.dll
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\websocket-sharp.dll
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\DSharpPlus.pdb
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\DSharpPlus.xml
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\bin\Debug\websocket-sharp.xml
+C:\Users\TXJ\Documents\Visual Studio 2017\Projects\SharpCord\TestNETBot\obj\Debug\TestNETBot.csprojResolveAssemblyReference.cache
