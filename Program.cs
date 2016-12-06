@@ -11,7 +11,7 @@ namespace TestNETBot
     {
         static void Main(string[] args)
         {
-            DiscordClient client = new DiscordClient("", true);
+            DiscordClient client = new DiscordClient("YOUR TOKEN HERE", true);
 
             client.MessageReceived += (sender, e) => // Channel message has been received
             {
